@@ -176,15 +176,15 @@
 
 
     color: white;
-    margin-top:100px;
-    margin-left: 50px;
+    margin-top:180px;
+    margin-left: 90px;
     font-family:var(--font)
     
 
 }
 .contact {
     color: white;
-    margin: 50px;
+    margin: 50px 70px 50px 50px;
     text-align: center;
     font-family:var(--font)
 }
@@ -196,8 +196,8 @@
 }
 
 .mainheader {
-    color: whitesmoke;
-    font-size: 70px;
+    color:whitesmoke;
+    font-size: 80px;
     margin: 0px;
     text-align: left;
     grid-column: 3 / 7;
